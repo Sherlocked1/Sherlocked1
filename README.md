@@ -20,4 +20,4 @@ const moha = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Interested in working with me ?</b> <a href="mailto:mohamadsayed7070@gmail.com"> Say hi! </a> :)</em>
+<img src="https://media.giphy.com/media/5fjXHZQ7CaKj0Pgbvv/giphy.gif" width="60"> <em><b>Interested in working with me ?</b> <a href="mailto:mohamadsayed7070@gmail.com"> Say hi! </a> :)</em>
