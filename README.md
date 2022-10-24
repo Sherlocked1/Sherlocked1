@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Mohammed Sayed! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Mohammed Sayed! <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.sustech.edu/">Sudan University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginnering at <a href="https://www.sustech.edu/">Sudan University </a><img src="https://media.giphy.com/media/iJ6s3SgKOpxfrXTyem/giphy.gif" width="30"></br>Mobile Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Mohammed Sayed](https://img.shields.io/badge/-mohammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-sayed7070/)](https://www.linkedin.com/in/mohammed-sayed7070/)
 [![GitHub Sherlocked1](https://img.shields.io/github/followers/sherlocked1?label=follow&style=social)](https://github.com/Sherlocked1)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width="50"> A about me...  
 
 ```javascript
 const moha = {
