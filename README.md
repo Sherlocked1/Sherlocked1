@@ -9,7 +9,7 @@
 [![GitHub Sherlocked1](https://img.shields.io/github/followers/sherlocked1?label=follow&style=social)](https://github.com/Sherlocked1)
 
 
-### <img src="https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width="50"> A about me...  
+### <img src="https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width="50">
 
 ```javascript
 const moha = {
@@ -20,4 +20,4 @@ const moha = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> <a href="mailto:mohamadsayed7070@gmail.com"> Say hi! </a> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Interested in working with me ?</b> <a href="mailto:mohamadsayed7070@gmail.com"> Say hi! </a> :)</em>
