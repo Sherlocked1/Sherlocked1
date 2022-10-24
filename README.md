@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Sherlocked1/Sherlocked1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
