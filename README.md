@@ -5,7 +5,7 @@
 <p><em>Software Enginner at <a href="https://www.sustech.edu/">Sudan University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Mohammed Sayed](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-sayed7070/)](https://www.linkedin.com/in/mohammed-sayed7070/)
+[![Linkedin: Mohammed Sayed](https://img.shields.io/badge/-mohammed-sayed7070-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-sayed7070/)](https://www.linkedin.com/in/mohammed-sayed7070/)
 [![GitHub Sherlocked1](https://img.shields.io/github/followers/sherlocked1?label=follow&style=social)](https://github.com/Sherlocked1)
 
 
