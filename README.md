@@ -12,8 +12,8 @@
 ```javascript
 const moha = {
   pronouns: "He" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Swift, Objective C, Dart, Java],
-  tools: [React, React Native, SwiftUI, UIKit, Flutter, WPF, Unity3D, Node, MongoDB],
+  code: [Typescript, HTML, CSS, Swift, Objective C, Dart, Java],
+  mainTools: [React, SwiftUI, Unity3D, Node, Tailwindcss],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
