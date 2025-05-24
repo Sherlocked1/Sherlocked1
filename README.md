@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mohammed Sayed! <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="230">
-<p><em>Software Enginnering at <a href="https://www.sustech.edu/">Sudan University </a><img src="https://media.giphy.com/media/iJ6s3SgKOpxfrXTyem/giphy.gif" width="30"></br>Mobile Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginnering at <a href="https://www.sustech.edu/">Sudan University </a><img src="https://media.giphy.com/media/iJ6s3SgKOpxfrXTyem/giphy.gif" width="30"></br>Full-Stack Dev<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Mohammed Sayed](https://img.shields.io/badge/-mohammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-sayed7070/)](https://www.linkedin.com/in/mohammed-sayed7070/)
